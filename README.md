@@ -1,2 +1,23 @@
-# PokeStream
-PokéStream Coach - AI Pokémon battle coach: OpenCV detects HP bars via webcam, MediaPipe tracks fingers (✌️=2), NLTK parses "stealth rock | crit KO" logs, scikit-learn predicts win odds, Groq LLM delivers instant tips: "Switch NOW—65% foe HP!" Hackathon-built Streamlit demo. 
+# PokeStream Coach
+
+PokeStream Coach is an AI-powered Pokémon battle coaching system built for a hackathon.
+
+## Features
+- Real-time battle insights
+- Strategy suggestions
+- AI-based win prediction
+
+## Tech Stack
+- Python
+- Jupyter Notebook
+- OpenCV
+- MediaPipe
+- Scikit-learn
+
+## How to Run
+1. Clone the repository
+2. Install dependencies
+3. Run the notebook
+
+## Status
+Hackathon MVP
