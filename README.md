@@ -18,6 +18,3 @@ PokeStream Coach is an AI-powered Pokémon battle coaching system built for a ha
 1. Clone the repository
 2. Install dependencies
 3. Run the notebook
-
-## Status
-Hackathon MVP
